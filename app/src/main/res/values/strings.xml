@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Register</string>
+    <string name="add_user">Add user</string>
+    <string name="provide_your_information">Provide your information</string>
+    <string name="name">name</string>
+    <string name="your_name">Your Name</string>
+    <string name="your_email">Your Email</string>
+    <string name="password">Password</string>
+    <string name="save">Save</string>
+    <string name="i_m_not_a_robot">I\'m not a robot</string>
+    <string name="verify">Verify</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="your_phone_number">Your Phone Number</string>
+</resources>
